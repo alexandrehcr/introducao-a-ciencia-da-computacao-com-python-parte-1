@@ -1,0 +1,1 @@
+This repository features a selection of my favorite exercises from the [Introdução à Ciência da Computação com Python Parte 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) course, offered by Universidade de São Paulo (USP) on Coursera platform. Since these files are meant to be evaluated by a bot, a lot of them are just function declarations.
